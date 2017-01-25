@@ -1,0 +1,2 @@
+<hotspot name>
+<hotspot password>
